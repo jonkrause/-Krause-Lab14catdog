@@ -1,0 +1,48 @@
+#cat {
+    display: inline-block;
+    width: 100%;
+    text-align: right;
+    margin-right: 0px;
+    margin-top: 30px;
+}
+
+#dog {
+    margin-top: 30px;
+
+}
+
+body {
+    background-color: salmon;
+    font-size: 60px;
+    text-decoration: none;
+    font-family: 'Pacifico', cursive;
+    color: floralwhite;
+    text-shadow: -2px 2px 1 #999;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: floralwhite;
+    margin-left: 20px;
+    text-shadow: -2px 2px 0px #89c5eb;
+}
+
+a:hover {
+    text-decoration: none;
+    color: floralwhite;
+}
+
+#clear {
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    padding: 5px;
+    text-shadow: none;
+}
+
+#clearDiv {
+    display: inline-block;
+    margin-top: -68px;
+    float: right;
+}
